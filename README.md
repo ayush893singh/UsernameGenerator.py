@@ -110,6 +110,6 @@ A simple Python application that generates multiple username suggestions using t
 
 ---
 
-Author
+# Author
 
-Ayush Singh
+Ayush Singh https://github.com/ayush893singh
